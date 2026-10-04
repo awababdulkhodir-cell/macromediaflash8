@@ -19,6 +19,4 @@ Unduh file ISO resmi (sekitar 245 MB) langsung dari Internet Archive:
 4. Saat diminta aktivasi, masukkan Serial Number di atas.
 
 
-catatan
-## ini aman ya gada virus aku udah cek di virus total
-## kenapa di buat seperti ini? karena Macromedia Flash 8 adalah versi lama dan gada web resminya, jadi cuma bisa di dapetin di archive yang mana rentan banyak virusnya
+
